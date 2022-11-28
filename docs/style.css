@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    width: 60%;
+}
+
+.leftCollumn {
+
+    padding-left: 50px;
+    margin-top: 50px;
+    padding-bottom: 50px;
+    display: inline-block;
+    width: 50%;
+
+}
+h1, h2, h3 {
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+
+}
+p {
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    font-size: 23px;
+}
+header {
+    padding-left: 50px;
+    padding-top: 40px;
+}
+h1 {
+    font-size: 60px;
+    width: 600px;
+}
+
+.firstUssue {
+    padding-bottom: 20px;
+}
+
+li {
+    font-size: 20px;
+    margin-top: 5px;
+}
+#seaImg {
+    margin-top: 40px;
+    width: 60%;
+    height: 35%;
+    margin-left: 50px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #444;
+}
+#migrosImg {
+    width: 60%;
+    height: 35%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #444;
+    margin-top: 20px;
+}
+a {
+    color: rgb(114, 114, 250);
+    text-decoration: none;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+a:hover {
+    color: rgb(255, 172, 89);
+}
+h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h2 {
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+#plyazh-konyaaltyi {
+    width: 100%;
+    height: 65%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #444;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+#mermerloi {
+    width: 100%;
+    height: 65%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #444;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+#duden {
+    width: 100%;
+    height: 65%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #444;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+#manavgat {
+    width: 100%;
+    height: 65%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #444;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+#ychansy {
+    width: 100%;
+    height: 65%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #444;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+#school {
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    font-size: 20px;
+}
+
+
+::selection{
+    background-color:#ffc491;
+    
+}
+body.dark_theme {
+    background-color: rgb(25, 25, 25);
+    color: rgb(216, 216, 216);
+}
+
+#theme_toggle {
+    text-decoration: none;
+    padding-left: 15px;
+}
+#price {
+    font-size: 20px;
+}
